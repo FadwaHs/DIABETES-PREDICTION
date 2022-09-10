@@ -1,5 +1,5 @@
 # DIABETES-PREDICTION-WITH-STREAMLIT
-# Python libraries used in Diabetes Detection :
+# Python Libraries Used In Diabetes Detection :
   - Streamlit
   - Seaborn & matplotlib
   - PIL
